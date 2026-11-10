@@ -1,0 +1,26 @@
+{
+  "name": "PayQu - Catatan Uang Pribadi",
+  "short_name": "PayQu",
+  "description": "Aplikasi Catatan Keuangan dan Dompet Pintar Offline",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F8F6F0",
+  "theme_color": "#FFC107",
+  "categories": ["finance", "productivity"],
+  "icons": [
+    {
+      "src": "icon/192 x 192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon/512 x 515.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
